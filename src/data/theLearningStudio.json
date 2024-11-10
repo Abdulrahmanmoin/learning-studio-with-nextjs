@@ -1,0 +1,104 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Photography Fundamentals",
+        "slug": "photography-fundamentals",
+        "description": "Learn the basics of photography, from handling the camera to composition and lighting.",
+        "price": 99.99,
+        "instructor": "John Doe",
+        "isFeatured": true,
+        "image": "/coursesAssets/Photography Fundamentals.avif"
+      },
+      {
+        "id": 2,
+        "title": "Introduction to Digital Art",
+        "slug": "digital-art-introduction",
+        "description": "Start your journey in digital art, covering tools, techniques, and creativity for beginners.",
+        "price": 109.99,
+        "instructor": "Jane Smith",
+        "isFeatured": false,
+        "image": "/coursesAssets/Introduction to Digital Art.avif"
+      },
+      {
+        "id": 3,
+        "title": "Advanced Public Speaking",
+        "slug": "advanced-public-speaking",
+        "description": "Enhance your communication skills with advanced public speaking techniques for various occasions.",
+        "price": 119.99,
+        "instructor": "Emily Johnson",
+        "isFeatured": true,
+        "image": "/coursesAssets/Advanced Public Speaking.avif"
+      },
+      {
+        "id": 4,
+        "title": "Creative Writing Essentials",
+        "slug": "creative-writing-essentials",
+        "description": "Express yourself through creative writing. Learn how to structure and bring your stories to life.",
+        "price": 129.99,
+        "instructor": "Mike Brown",
+        "isFeatured": false,
+        "image": "/coursesAssets/Creative Writing Essentials.avif"
+      },
+      {
+        "id": 5,
+        "title": "Intro to Graphic Design",
+        "slug": "graphic-design-intro",
+        "description": "Learn the essentials of graphic design, from color theory to creating engaging designs.",
+        "price": 139.99,
+        "instructor": "Chris Davis",
+        "isFeatured": false,
+        "image": "/coursesAssets/Intro to Graphic Design.avif"
+      },
+      {
+        "id": 6,
+        "title": "Video Editing Basics",
+        "slug": "video-editing-basics",
+        "description": "Dive into video editing, covering basics of editing software and techniques for beginners.",
+        "price": 149.99,
+        "instructor": "Alex Wilson",
+        "isFeatured": true,
+        "image": "/coursesAssets/Video Editing Basics.avif"
+      },
+      {
+        "id": 7,
+        "title": "Storytelling Techniques",
+        "slug": "storytelling-techniques",
+        "description": "Learn the essentials of storytelling to captivate your audience and convey your message effectively.",
+        "price": 159.99,
+        "instructor": "Samantha Miller",
+        "isFeatured": false,
+        "image": "/coursesAssets/Storytelling Techniques.avif"
+      },
+      {
+        "id": 8,
+        "title": "Introduction to Calligraphy",
+        "slug": "calligraphy-introduction",
+        "description": "Master the art of calligraphy with a course suitable for beginners to advanced users.",
+        "price": 169.99,
+        "instructor": "Luke Harris",
+        "isFeatured": true,
+        "image": "/coursesAssets/Introduction to Calligraphy.avif"
+      },
+      {
+        "id": 9,
+        "title": "Islamic History",
+        "slug": "islamic-history",
+        "description": "Explore the rich history of the Islamic world, from its beginnings to the present day.",
+        "price": 179.99,
+        "instructor": "Grace Lee",
+        "isFeatured": false,
+        "image": "/coursesAssets/Islamic History.avif"
+      },
+      {
+        "id": 10,
+        "title": "Personal Development",
+        "slug": "personal-development",
+        "description": "Learn techniques to boost your personal growth and set effective goals for the future.",
+        "price": 189.99,
+        "instructor": "Ethan Moore",
+        "isFeatured": true,
+        "image": "/coursesAssets/Personal Development.avif"
+      }
+    ]
+  }
