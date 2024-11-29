@@ -1,4 +1,3 @@
-import { footer } from "framer-motion/client"
 
 const Footer = () => {
     return (

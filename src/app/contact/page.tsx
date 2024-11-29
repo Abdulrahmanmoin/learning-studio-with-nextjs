@@ -18,12 +18,12 @@ export default function BackgroundBeamsDemo() {
       <BackgroundBeams className="absolute top-0 left-0 w-full h-full z-0" />
 
       <div className="max-w-2xl mx-auto p-4 relative z-10">
-        <h1 className="relative z-10 text-lg md:text-7xl  bg-clip-text text-transparent bg-gradient-to-b from-neutral-200 to-neutral-600  text-center font-sans font-bold">
+        <h1 className="relative z-10 text-lg md:text-7xl mt-40 bg-clip-text text-transparent bg-gradient-to-b from-neutral-200 to-neutral-600  text-center font-sans font-bold">
           Contact Us
         </h1>
         <p></p>
         <p className="text-neutral-500 max-w-lg mx-auto my-2 text-sm text-center relative z-10">
-          We're here to support you with any questions about our courses, programs, or upcoming events. Reach out to us, and let’s take the next step in your creative journey together!
+          We’re here to support you with any questions about our courses, programs, or upcoming events. Reach out to us, and let’s take the next step in your creative journey together!
         </p>
         <form className="my-8" onSubmit={handleSubmit}>
           <label htmlFor="email">Email Address</label>
