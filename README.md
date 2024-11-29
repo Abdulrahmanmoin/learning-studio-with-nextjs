@@ -1,1 +1,1 @@
-This Project is build with the command ` npx create-next-app@latest `
+This is my first Next.js project. I mostly used Aceternity UI's components to make my first Next.js site attractive. 
